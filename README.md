@@ -20,4 +20,6 @@ In this analysis, three distinct forecasting methods have Q52been applied. Among
 ![image](https://github.com/mhkhaku/Demand_Planning_Visualisation/assets/115505106/67f44748-b866-4d60-8ed0-fe89aa4b689c)
 
 ##Complete Dashboard Below
+
+
 <img width="286" alt="image" src="https://github.com/mhkhaku/Demand_Planning_Visualisation/assets/115505106/8e71d596-b83b-412c-8f97-c2035d703948">
