@@ -13,7 +13,7 @@ Within the sales section of the dashboard, it becomes evident that the BC provin
 
 
 ##Forecasting
-In this analysis, three distinct forecasting methods have Q52been applied. Among them, the moving average method has emerged as the most effective for making accurate predictions. This is primarily attributed to the inherent trends observed within the historical data. On the other hand, the linear regression method provides an overview of the underlying trends present in the dataset. Notably, there is no evident seasonality discernible from the data, which suggests that the seasonality forecasting approach may not be relevant or suitable in this scenario.
+In this analysis, three distinct forecasting methods have been applied. Among them, the moving average method has emerged as the most effective for making accurate predictions. This is primarily attributed to the inherent trends observed within the historical data. On the other hand, the linear regression method provides an overview of the underlying trends present in the dataset. Notably, there is no evident seasonality discernible from the data, which suggests that the seasonality forecasting approach may not be relevant or suitable in this scenario.
 
 ![image](https://github.com/mhkhaku/Demand_Planning_Visualisation/assets/115505106/999fe61e-21d8-442c-9af6-0f78ceb2966c)
 ![image](https://github.com/mhkhaku/Demand_Planning_Visualisation/assets/115505106/fd11f7cd-0960-43b8-9c44-3a8d261fc4a8)
