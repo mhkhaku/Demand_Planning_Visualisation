@@ -7,7 +7,10 @@ The dashboard encompasses sales analysis, forecasting, and demand planning. This
 ##Sales
 Within the sales section of the dashboard, it becomes evident that the BC province has contributed the highest revenue during the timeframe spanning from 2020 to 2021.
 
-![image](https://github.com/mhkhaku/Demand_Planning_Visualisation/assets/115505106/961debec-fc0c-4a38-b739-3f9c23efdc43)
+![image](https://github.com/mhkhaku/Demand_Planning_Visualisation/assets/115505106/77d39ec9-e844-4f7e-aa87-018f0c8a8825)
+![image](https://github.com/mhkhaku/Demand_Planning_Visualisation/assets/115505106/f321b520-6449-4ad6-bc5d-de233df45af9)
+
+
 
 ##Forecasting
 In this analysis, three distinct forecasting methods have Q52been applied. Among them, the moving average method has emerged as the most effective for making accurate predictions. This is primarily attributed to the inherent trends observed within the historical data. On the other hand, the linear regression method provides an overview of the underlying trends present in the dataset. Notably, there is no evident seasonality discernible from the data, which suggests that the seasonality forecasting approach may not be relevant or suitable in this scenario.
